@@ -458,6 +458,6 @@ For issues, questions, or feature requests:
 
 ---
 
-**Made with ❤️ by [Ayush Bhunya](https://github.com/Ayush-Bhunya05)**
+**Made by Varun Choudhary[](https://github.com/Varun16c)**
 
 🌟 If you find NeuroMotion AI helpful, please consider starring the repository!
